@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
 Built-By: basarat.ali
 Build-Jdk: 15.0.2
+Implementation-Title: CardTracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cardtracker
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/CardTracker/
 Created-By: Maven Integration for Eclipse
 
